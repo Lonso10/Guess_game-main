@@ -1,3 +1,4 @@
+ HEAD
 Aqui está um exemplo de um arquivo `README.md` para o seu jogo:
 
 ---
@@ -155,3 +156,6 @@ Tente adivinhar
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
 
+=======
+# Guess_game-main
+>>>>>>> 78b83de66b418b085c2a4d2ffb24856cd9932f52
