@@ -20,7 +20,7 @@ O jogador deve adivinhar uma senha secreta gerada ou fornecida, e receberá dica
 
 ```bash
 git clone https://github.com/Lonso10/guess_game-main.git
-cd guess_game_main
+cd guess_game-main
 ```
 
 ### 2. Subir os containers
